@@ -8,18 +8,18 @@
 ### 섹션 1. 프로젝트 환경설정
   - 프로젝트 생성
   - 라이브러리 살펴보기
-    1. [의존성 설정](./Library%20Dependencies.md)
+    1. [라이브러리 및 의존성 설정](./Library%20Dependencies.md)
   - view 환경설정
     1. [Welcome page](./Welcome%20Page.md)
-    2. [thymeleaf 템플릿 엔진]()
+    2. [thymeleaf 템플릿 엔진](./Thymeleaf%20Template%20Engine.md)
   - 빌드하고 실행하기
     1. [window cmd에서 하기](./Build&Execute.md)
 
 <BR>
 
-### 섹션2. [스프링 웹 개발 기초]()
+### 섹션2. 스프링 웹 개발 기초
 
-https://velog.io/@neity16/Spring-%EC%9E%85%EB%AC%B82-%EB%B9%8C%EB%93%9C-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%97%94%EC%A7%84-API
+1. [스프링 웹 개발 방식](Spring%20Web%20Development%20method.md)	
 
 - 정적 컨텐츠
 - MVC와 템플릿 엔진
@@ -39,7 +39,7 @@ https://velog.io/@neity16/Spring-%EC%9E%85%EB%AC%B82-%EB%B9%8C%EB%93%9C-%ED%85%9
 
 <br>
 
-### 섹션4. [스프링 빈과 의존관계]()
+### 섹션4. [스프링 빈과 의존관계](./Spring%20Bean&Dependency%20Inversion.md)
 
 1. [DI(의존성 주입)](./DI.md)
 
