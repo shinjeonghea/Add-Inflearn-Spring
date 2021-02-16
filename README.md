@@ -57,7 +57,7 @@
 
 <br>
 
-### 섹션 6. [스프링 DB 접근 기술]()
+### 섹션 6. [스프링 DB 접근 기술](./Spring%20DB%20Approch%20Technology.md)
 
 - H2 데이터베이스 설치
 - 순수 JDBC
